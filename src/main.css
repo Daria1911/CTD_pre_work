@@ -1,0 +1,15 @@
+h1{
+    color: #070000;
+    text-align: center;
+}
+#app {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.card {
+    margin: 15px;
+    padding: 15px;
+}
+
